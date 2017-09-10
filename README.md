@@ -1,0 +1,2 @@
+# libgdxEmpty
+Empty LibGdx project
